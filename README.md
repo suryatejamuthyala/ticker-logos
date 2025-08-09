@@ -7,7 +7,7 @@ A minimal FastAPI application that serves logo images by ticker symbol from the 
 1. Install dependencies:
 
 ```bash
-pip install fastapi uvicorn
+pip install fastapi uvicorn --break-system-packages
 ```
 
 2. Start the server from the repository root:
